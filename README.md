@@ -1,5 +1,9 @@
 # 🚀 Rocket Lab – Water Rocket Modeling, Design & Launch Optimization
 
+<p align="center">
+  <img src="Screenshot 2025-05-31 001039.png" alt="HappyCam Product Photo" width="850"/>
+</p>
+
 ## ✨ Overview
 This project was completed for an aerospace dynamics lab, where our team designed, modeled, and tested a **water bottle rocket** with the goal of maximizing its downrange distance. The challenge involved simulating flight dynamics, validating predictions through experimental launches, and iteratively improving our design based on data-driven insights.
 
